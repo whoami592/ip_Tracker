@@ -53,8 +53,8 @@ IP Address Tracker looks up any IPv4 or IPv6 address and reports its geolocation
 ## Installation
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone <https://github.com/whoami592/ip_Tracker.git
+cd ip_Tracker
 chmod +x ip_tracker.py   # optional, Linux/macOS
 ```
 
